@@ -7,6 +7,7 @@ const products = [
 
 function ShoppingList() {
     const listItems = products.map(product =>
+        //<li>  representa un elemento individual en una lista.
         <li
             key={product.id}
             style={{
@@ -19,6 +20,7 @@ function ShoppingList() {
     );
 
     return (
+         //<ul>  crear una lista que no tiene un orden específico.
         <ul>{listItems}</ul>
     );
 }
