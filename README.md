@@ -52,7 +52,11 @@ Create-React-App: https://create-react-app.dev/
 Next.js: https://nextjs.org/
 
 
-#  Tener en cuenta:Responsabilidad unica
+#  Tener en cuenta:
+
+1-Responsabilidad unica de componentes
+
+2- Se puede convertir el html en jsx para tener bien estructurado el codigo por medio de: https://transform.tools/html-to-jsx
 
 
 
