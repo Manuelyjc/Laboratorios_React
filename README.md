@@ -2,6 +2,20 @@
 Este repositorio contiene el código fuente para un laboratorio práctico donde exploraremos el desarrollo de aplicaciones web utilizando React junto con Vite como herramienta de construcción.
 
 
+# Comandos para crear nuestra App con React y Vite
+
+1- Revisa la version de node: node -v
+
+2-Instalar vite(ultima_version): npm create vite@latest
+
+3-Crear proyecto: npm create mi-proyecto-web
+
+4-instalar dependencias(pagckage.json): npm install 
+(por si sale error escribir: npm install vite)
+
+5-Comando para copilar la App: npm run dev
+
+
 # Comandos para ejecutar la App
 
 npm install vite
