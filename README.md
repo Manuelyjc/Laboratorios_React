@@ -3,4 +3,8 @@ Este repositorio contiene el código fuente para un laboratorio práctico donde 
 
 # Comando para instalarlo otra vez
 npm install vite
+
+
+
+
 npm run dev
