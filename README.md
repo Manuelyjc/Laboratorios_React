@@ -37,6 +37,9 @@ $ git push -u origin mi-rama-auxiliar
 
 # Comandos para instalar el framework(tailwindcss) de CSS de utilidad de código abierto
 
+Link: https://tailwindcss.com/docs/installation
+
+
 1- npm install -D tailwindcss
 
 
