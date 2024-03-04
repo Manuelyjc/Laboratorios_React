@@ -35,7 +35,12 @@ $ git checkout -b mi-rama-auxiliar
 
 $ git push -u origin mi-rama-auxiliar
 
+# Comandos para instalar el framework(tailwindcss) de CSS de utilidad de código abierto
 
+1- npm install -D tailwindcss
+
+
+2- npx tailwindcss init
 
 #  Herramientas de compilación 
 
