@@ -10,7 +10,7 @@ npm install vite
 npm run dev
 
 
-# Comando paracrear rama auxiliar
+# Comando para crear rama auxiliar
 
 
 $ cd /c/Laboratorios_React
