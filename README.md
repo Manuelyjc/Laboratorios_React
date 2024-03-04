@@ -8,3 +8,18 @@ npm install vite
 
 
 npm run dev
+
+
+# Comando paracrear rama auxiliar
+
+
+$ cd /c/Laboratorios_React
+
+
+
+$ git checkout -b mi-rama-auxiliar
+
+
+
+$ git push -u origin mi-rama-auxiliar
+
