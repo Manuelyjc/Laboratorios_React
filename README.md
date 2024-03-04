@@ -71,5 +71,7 @@ Next.js: https://nextjs.org/
 
 3-Herramienta para entorno de desarrollo integrado : https://www.jetbrains.com/es-es/webstorm/download/#section=windows
 
+4- Recomendacion para saber etiquetas html: https://www.dofactory.com/html
+
 
 
