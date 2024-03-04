@@ -10,6 +10,7 @@ function ShoppingList() {
         <li
             key={product.id}
             style={{
+                //Si es afirmativo lo pondra magenta
                 color: product.isFruit ? 'magenta' : 'darkgreen'
             }}
         >
