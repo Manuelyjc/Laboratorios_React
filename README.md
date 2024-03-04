@@ -42,6 +42,9 @@ $ git push -u origin mi-rama-auxiliar
 
 2- npx tailwindcss init
 
+
+3- Buscar en el archivo tailwind.config.js este codigo: "content: []," dentro de la llaves añadir: "content: ["./src/**/*.{js,jsx,ts,tsx}"],", que todo lo que tenga la carpeta reciba esos estilos. 
+
 #  Herramientas de compilación 
 
 
