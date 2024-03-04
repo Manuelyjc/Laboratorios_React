@@ -38,3 +38,7 @@ Create-React-App: https://create-react-app.dev/
 Next.js: https://nextjs.org/
 
 
+#  Tener en cuenta:Responsabilidad unica
+
+
+
