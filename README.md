@@ -56,7 +56,9 @@ Next.js: https://nextjs.org/
 
 1-Responsabilidad unica de componentes
 
-2- Se puede convertir el html en jsx para tener bien estructurado el codigo por medio de: https://transform.tools/html-to-jsx
+2-Se puede convertir el html en jsx para tener bien estructurado el codigo por medio de: https://transform.tools/html-to-jsx
+
+3-Herramienta para entorno de desarrollo integrado : https://www.jetbrains.com/es-es/webstorm/download/#section=windows
 
 
 
