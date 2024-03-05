@@ -1,5 +1,8 @@
 import {useState} from "react";
+import '../App.css'
+
 function MyButton(){
+
 
     const [count, setCount]= useState(0);
 
@@ -9,9 +12,9 @@ function MyButton(){
 
     return (
         <>
-            <button  onClick={handleClick}>
-                Click me {count} times
-            </button>
+            <button className="my-button" onClick={handleClick}>
+            Click me {count} times
+            </button>        
         </>
     );
 }
