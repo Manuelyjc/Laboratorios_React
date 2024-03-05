@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import MyButton from "./components/MyButton.jsx";
 import './App.css'
-
+//componente padre
 function App(){
     const [count, setCount] = useState(0);
 
