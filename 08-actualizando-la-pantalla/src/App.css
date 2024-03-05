@@ -1,4 +1,4 @@
-.button {
+.my-button {
     background-color: #1e3c72; /* Azul oscuro */
     border-radius: 40px; /* Bordes redondeados */
     color: #ffffff; /* Letra blanca */
@@ -12,8 +12,7 @@
     transition: background-color 0.3s; /* Transición suave */
   }
   
-  .button:hover {
+  .my-button {
     background-color: #0f2554; /* Cambio de color al pasar */
   }
   
-
