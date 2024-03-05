@@ -1,13 +1,16 @@
-function SearchBar(){
+import React from 'react';
+
+function SearchBar({ onCheckboxChange }) {
     return (
         <form>
-            <input type="text" placeholder="Search product..."/>
-            <label >
-                <input type="checkbox"/>
+            <label>
+            <input type="text" placeholder="Search product..." />
+                <input type="checkbox" onChange={onCheckboxChange} />
                 {' '}
                 Only show products in stock
             </label>
         </form>
     );
 }
+
 export default SearchBar;

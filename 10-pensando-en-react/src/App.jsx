@@ -1,5 +1,5 @@
-import './App.css'
-import FilterableProductTable from "./components/FilterableProductTable.jsx";
+import React from 'react';
+import FilterableProductTable from "./components/FilterableProductTable";
 
 const PRODUCTS = [
     {category: "Fruits", price: "$1", stocked: true, name: "Apple"},
@@ -9,12 +9,13 @@ const PRODUCTS = [
     {category: "Vegetables", price: "$4", stocked: false, name: "Pumpkin"},
     {category: "Vegetables", price: "$1", stocked: true, name: "Peas"}
 ];
+
 function App() {
-    return(
-        <>
-            <FilterableProductTable products={PRODUCTS}/>
-        </>
+    return (
+        <div>
+            <FilterableProductTable products={PRODUCTS} />
+        </div>
     );
 }
 
-export default App
+export default App;
