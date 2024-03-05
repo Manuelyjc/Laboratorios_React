@@ -8,7 +8,7 @@ function App(){
     function handleClick(){
         setCount(count + 1);
     }
-
+//props
     return(
       <>
         <h1>Counters that update together</h1>
