@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .button {
     background-color: #1e3c72; /* Azul oscuro */
     border-radius: 40px; /* Bordes redondeados */
@@ -32,3 +33,39 @@
     border-radius: 10px; /* Puedes ajustar este valor según tus preferencias */
     text-align: justify;
   }
+=======
+.button {
+    background-color: #1e3c72; /* Azul oscuro */
+    border-radius: 40px; /* Bordes redondeados */
+    color: #ffffff; /* Letra blanca */
+    padding: 10px 20px; /* Espaciado interior */
+    border: none; /* Quita el borde */
+    cursor: pointer; /* Cambia el cursor al pasar */
+    font-size: 16px; /* Tamaño de fuente */
+    text-align: center; /* Alineación de texto */
+    text-decoration: none; /* Quita el subrayado */
+    display: inline-block; /* Hace que el botón se ajuste al contenido */
+    transition: background-color 0.3s; /* Transición suave */
+  }
+  
+  .button:hover {
+    background-color: #0f2554; /* Cambio de color al pasar */
+  }
+  
+  .p {
+    text-align: justify;
+  }
+
+  .mensaje {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #ffffff;
+    color: black;
+    margin-top: 10px; /* Agrega un poco de espacio en la parte superior */
+    border-radius: 10px; /* Puedes ajustar este valor según tus preferencias */
+    text-align: justify;
+  }
+>>>>>>> 46addf3a840b7935ff27b923f98c780060e6c139
