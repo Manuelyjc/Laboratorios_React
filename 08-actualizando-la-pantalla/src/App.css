@@ -1,0 +1,19 @@
+.button {
+    background-color: #1e3c72; /* Azul oscuro */
+    border-radius: 40px; /* Bordes redondeados */
+    color: #ffffff; /* Letra blanca */
+    padding: 10px 20px; /* Espaciado interior */
+    border: none; /* Quita el borde */
+    cursor: pointer; /* Cambia el cursor al pasar */
+    font-size: 16px; /* Tamaño de fuente */
+    text-align: center; /* Alineación de texto */
+    text-decoration: none; /* Quita el subrayado */
+    display: inline-block; /* Hace que el botón se ajuste al contenido */
+    transition: background-color 0.3s; /* Transición suave */
+  }
+  
+  .button:hover {
+    background-color: #0f2554; /* Cambio de color al pasar */
+  }
+  
+
